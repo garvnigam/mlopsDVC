@@ -4,8 +4,8 @@ import os
 def create_dataset():
     # Create data
     data = {
-        'id': [1, 2, 3, 4, 5],
-        'name': ['John', 'Alice', 'Bob', 'Charlie', 'David']
+        'id': [1, 2, 3, 4, 5, 6, 7],
+        'name': ['John', 'Alice', 'Bob', 'Charlie', 'David', 'Eve', 'Frank']
     }
     
     # Create DataFrame
